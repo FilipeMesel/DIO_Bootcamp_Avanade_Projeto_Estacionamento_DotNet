@@ -30,7 +30,7 @@ Para executar este projeto localmente, siga estas etapas:
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/FilipeMesel/DIO_Bootcamp_Avanade_Projeto_Estacionamento_DotNet.gitt
    ```
 
 2. Abra o terminal (ou prompt de comando) na pasta raiz do projeto.
