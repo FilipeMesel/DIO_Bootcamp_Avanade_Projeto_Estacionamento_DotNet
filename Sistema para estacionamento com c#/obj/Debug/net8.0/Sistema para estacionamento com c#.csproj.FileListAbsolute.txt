@@ -1,0 +1,14 @@
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\Sistema para estacionamento com c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\Sistema para estacionamento com c#.AssemblyInfoInputs.cache
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\Sistema para estacionamento com c#.AssemblyInfo.cs
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\Sistema para estacionamento com c#.csproj.CoreCompileInputs.cache
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\bin\Debug\net8.0\Sistema para estacionamento com c#.exe
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\bin\Debug\net8.0\Sistema para estacionamento com c#.deps.json
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\bin\Debug\net8.0\Sistema para estacionamento com c#.runtimeconfig.json
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\bin\Debug\net8.0\Sistema para estacionamento com c#.dll
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\bin\Debug\net8.0\Sistema para estacionamento com c#.pdb
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\Sistema para estacionamento com c#.dll
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\refint\Sistema para estacionamento com c#.dll
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\Sistema para estacionamento com c#.pdb
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\Sistema para estacionamento com c#.genruntimeconfig.cache
+C:\Users\Felipi Mesel\Documents\DIO_Bootcamp_Dotnet_Avanade_Dio\01_Modulo\Sistema para estacionamento com c#\obj\Debug\net8.0\ref\Sistema para estacionamento com c#.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema para estacionamento com c#/1.0.0": {
+        "runtime": {
+          "Sistema para estacionamento com c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema para estacionamento com c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
